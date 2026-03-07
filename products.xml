@@ -14,8 +14,8 @@
 <CATEGORY id="910">Komponenty pro notebooky a počítače &gt; Pevné disky do PC a notebooku</CATEGORY>
 <DEFAULT_CATEGORY id="910" google-id="380">Komponenty pro notebooky a počítače &gt; Pevné disky do PC a notebooku</DEFAULT_CATEGORY>
 </CATEGORIES>
-<IMAGES><IMAGE description="Ilustrační fotografie">https://petrfilo-arch.github.io/importpc-feed/images/hdd_25_sata.jpg</IMAGE></IMAGES>
-<IMAGE_REF>https://petrfilo-arch.github.io/importpc-feed/images/hdd_25_sata.jpg</IMAGE_REF>
+<IMAGES><IMAGE description="Ilustrační fotografie">https://petrfilo-arch.github.io/importpc-feed/images/hdd_25_sata_big.jpg</IMAGE></IMAGES>
+<IMAGE_REF>https://petrfilo-arch.github.io/importpc-feed/images/hdd_25_sata_big.jpg</IMAGE_REF>
 <TEXT_PROPERTIES>
 <TEXT_PROPERTY><NAME>Značka</NAME><VALUE>Toshiba</VALUE><DESCRIPTION></DESCRIPTION></TEXT_PROPERTY>
 <TEXT_PROPERTY><NAME>Model</NAME><VALUE>MQ01ABD032</VALUE><DESCRIPTION></DESCRIPTION></TEXT_PROPERTY>
@@ -105,8 +105,8 @@
 <CATEGORY id="910">Komponenty pro notebooky a počítače &gt; Pevné disky do PC a notebooku</CATEGORY>
 <DEFAULT_CATEGORY id="910" google-id="380">Komponenty pro notebooky a počítače &gt; Pevné disky do PC a notebooku</DEFAULT_CATEGORY>
 </CATEGORIES>
-<IMAGES><IMAGE description="Ilustrační fotografie">https://petrfilo-arch.github.io/importpc-feed/images/hdd_25_sata.jpg</IMAGE></IMAGES>
-<IMAGE_REF>https://petrfilo-arch.github.io/importpc-feed/images/hdd_25_sata.jpg</IMAGE_REF>
+<IMAGES><IMAGE description="Ilustrační fotografie">https://petrfilo-arch.github.io/importpc-feed/images/hdd_25_sata_big.jpg</IMAGE></IMAGES>
+<IMAGE_REF>https://petrfilo-arch.github.io/importpc-feed/images/hdd_25_sata_big.jpg</IMAGE_REF>
 <TEXT_PROPERTIES>
 <TEXT_PROPERTY><NAME>Značka</NAME><VALUE>Toshiba</VALUE><DESCRIPTION></DESCRIPTION></TEXT_PROPERTY>
 <TEXT_PROPERTY><NAME>Model</NAME><VALUE>MQ01ABD050</VALUE><DESCRIPTION></DESCRIPTION></TEXT_PROPERTY>
