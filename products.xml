@@ -1,0 +1,42 @@
+<?xml version="1.0" ?>
+<SHOP xmlns="http://www.shoptet.cz/ns/shoptet-feed/1.0">
+  <SHOPITEM>
+    <ITEM_ID>MQ01ABD032-33NRP5</ITEM_ID>
+    <PRODUCTNAME>Toshiba MQ01ABD032 320GB 2.5&quot; SATA HDD</PRODUCTNAME>
+    <DESCRIPTION>Repasovaný Toshiba MQ01ABD032 320GB 2.5&quot; SATA HDD. Kapacita: 320GB (625,142,448 Sectors). Rozhraní: SATA. Formfaktor: 2.5&quot;. Stav: Opotřebený. Part Number: HDKEB04T3A02 T. Produkt prošel kontrolou a čištěním. Záruka 6 měsíců.</DESCRIPTION>
+    <URL>https://www.importpc.cz/produkty/mq01abd032-33nrp5/</URL>
+    <PRICE_VAT>180</PRICE_VAT>
+    <VAT>21</VAT>
+    <CATEGORY>
+      <CATEGORY_NAME>HDD</CATEGORY_NAME>
+    </CATEGORY>
+    <PARAMS>
+      <PARAM>
+        <PARAM_NAME>kapacita</PARAM_NAME>
+        <VAL>320GB (625,142,448 Sectors)</VAL>
+      </PARAM>
+      <PARAM>
+        <PARAM_NAME>rozhrani</PARAM_NAME>
+        <VAL>SATA</VAL>
+      </PARAM>
+      <PARAM>
+        <PARAM_NAME>formfaktor</PARAM_NAME>
+        <VAL>2.5&quot;</VAL>
+      </PARAM>
+      <PARAM>
+        <PARAM_NAME>napajeni</PARAM_NAME>
+        <VAL>DC +5V 1.0A</VAL>
+      </PARAM>
+      <PARAM>
+        <PARAM_NAME>geometrie</PARAM_NAME>
+        <VAL>CYL16383, H16, S63</VAL>
+      </PARAM>
+      <PARAM>
+        <PARAM_NAME>buffer</PARAM_NAME>
+        <VAL>8455MB</VAL>
+      </PARAM>
+    </PARAMS>
+    <MANUFACTURER>Toshiba</MANUFACTURER>
+    <AVAILABILITY>in-stock</AVAILABILITY>
+  </SHOPITEM>
+</SHOP>
