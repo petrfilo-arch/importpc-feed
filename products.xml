@@ -160,67 +160,71 @@
 <SHORT_DESCRIPTION><![CDATA[<p>30 GB SSD 2.5" (SATA II, SSD), otestováno, záruka 12 měsíců.</p>]]></SHORT_DESCRIPTION>
 <DESCRIPTION><![CDATA[<h2>Repasovaný disk Kingston SNV125-S2/30GB – 30 GB SSD 2.5" SATA II</h2>
 
-<p>Hledáte spolehlivý a cenově dostupný <strong>30 GB disk</strong> pro oživení staršího notebooku nebo jako systémový disk do nenáročného počítače? <strong>Kingston SNV125-S2/30GB</strong> z řady SSDNow V Series nabízí nesrovnatelně vyšší rychlost než klasický použitý HDD – a to za zlomek ceny nového SSD. Tento <strong>repasovaný disk</strong> je důkladně otestovaný a připravený k okamžitému nasazení.</p>
+<p>Hledáte spolehlivý a cenově dostupný <strong>30 GB disk</strong> pro oživení staršího notebooku nebo jako systémový disk do nenáročného počítače? <strong>Repasovaný disk Kingston SNV125-S2/30GB</strong> z řady SSDNow V Series nabízí výrazně vyšší rychlost než klasický použitý HDD – a to za zlomek ceny nového SSD. Každý kus je důkladně otestován a připraven k okamžitému nasazení.</p>
 
 <h3>Technické parametry</h3>
 
-<table border="1" cellpadding="8" cellspacing="0">
-  <tbody>
-    <tr>
-      <th>Model</th>
-      <td>Kingston SNV125-S2/30GB</td>
-    </tr>
-    <tr>
-      <th>Série</th>
-      <td>SSDNow V Series</td>
-    </tr>
-    <tr>
-      <th>Typ disku</th>
-      <td>SSD</td>
-    </tr>
-    <tr>
-      <th>Kapacita</th>
-      <td>30 GB</td>
-    </tr>
-    <tr>
-      <th>Formát</th>
-      <td>2.5"</td>
-    </tr>
-    <tr>
-      <th>Rozhraní</th>
-      <td>SATA II (3 Gb/s)</td>
-    </tr>
-    <tr>
-      <th>Part Number</th>
-      <td>SNV125-S2/30GB</td>
-    </tr>
-  </tbody>
+<table>
+  <tr>
+    <th>Výrobce</th>
+    <td>Kingston</td>
+  </tr>
+  <tr>
+    <th>Model / Part Number</th>
+    <td>SNV125-S2/30GB</td>
+  </tr>
+  <tr>
+    <th>Série</th>
+    <td>SSDNow V Series</td>
+  </tr>
+  <tr>
+    <th>Typ disku</th>
+    <td>SSD</td>
+  </tr>
+  <tr>
+    <th>Kapacita</th>
+    <td>30 GB</td>
+  </tr>
+  <tr>
+    <th>Formát</th>
+    <td>2.5"</td>
+  </tr>
+  <tr>
+    <th>Rozhraní</th>
+    <td>SATA II (3 Gb/s)</td>
+  </tr>
+  <tr>
+    <th>Stav</th>
+    <td>Repasovaný / testovaný</td>
+  </tr>
 </table>
 
 <h3>Proč koupit repasovaný disk u ImportPC?</h3>
 
 <ul>
-  <li><strong>Testováno profesionálními nástroji</strong> – každý disk prochází diagnostikou v HD Sentinel a CrystalDiskInfo, výsledky máme k dispozici.</li>
-  <li><strong>Bez vadných sektorů</strong> – prodáváme pouze disky, které prošly kompletní kontrolou bez jediného bad sectoru.</li>
-  <li><strong>Záruka 12 měsíců</strong> – na každý repasovaný disk poskytujeme plnou roční záruku.</li>
+  <li><strong>Testováno pomocí HD Sentinel / CrystalDiskInfo</strong> – ke každému disku přistupujeme individuálně a ověřujeme jeho skutečný zdravotní stav.</li>
+  <li><strong>Bez vadných sektorů</strong> – prodáváme pouze kusy, které úspěšně prošly kompletní diagnostikou.</li>
+  <li><strong>Záruka 12 měsíců</strong> – na každý repasovaný disk poskytujeme plnou zákonnou záruku.</li>
   <li><strong>Rychlé odeslání do 24 hodin</strong> – objednávky expedujeme nejpozději následující pracovní den.</li>
-  <li><strong>Bezpečné balení</strong> – disk zabalíme do antistatického obalu a ochranné výplně, aby dorazil v perfektním stavu.</li>
+  <li><strong>Bezpečné balení</strong> – disky pečlivě zabalíme do antistatických obalů a ochranného materiálu, aby k vám dorazily v perfektním stavu.</li>
 </ul>
 
-<h3>Využití – pro koho je Kingston SNV125-S2/30GB ideální?</h3>
+<h3>Využití – pro koho je Kingston SNV125-S2/30GB vhodný?</h3>
 
-<p>Tento <strong>30 GB disk</strong> ocení především:</p>
+<p>Tento <strong>30 GB disk</strong> ocení zejména:</p>
 
 <ul>
-  <li><strong>Majitelé starších notebooků a netbooků</strong> – výměna pomalého HDD za SSD dramaticky zrychlí start systému i odezvu celého zařízení.</li>
-  <li><strong>Domácí servery a síťová úložiště</strong> – jako bootovací disk pro operační systém (Linux, FreeNAS, pfSense) je kapacita 30 GB více než dostatečná.</li>
-  <li><strong>Embedded a průmyslové aplikace</strong> – kompaktní 2.5" formát a nízká spotřeba předurčují tento SSD disk pro vestavěné systémy.</li>
-  <li><strong>Bastlíři a fanoušci DIY projektů</strong> – cenově dostupný použitý HDD alternativa ve formě SSD pro experimentální sestavy, thin klienty nebo retro počítače.</li>
+  <li><strong>Majitelé starších notebooků a netbooků</strong> – výměna pomalého talířového disku za SSD dokáže i letitý stroj výrazně zrychlit, zejména při startu systému a běžné práci.</li>
+  <li><strong>Domácí servery a síťová úložiště</strong> – jako systémový disk pro operační systém (např. Linux, pfSense, FreeNAS boot disk), kde nepotřebujete velkou kapacitu.</li>
+  <li><strong>Bastlíři a fanoušci retro IT</strong> – ideální pro projekty, kde stačí menší kapacita a záleží na nízké spotřebě a tichém provozu.</li>
+  <li><strong>Tenké klienty a průmyslové PC</strong> – kompaktní 2.5" SSD formát s rozhraním SATA II je kompatibilní s většinou starších platforem.</li>
 </ul>
 
-<h3>Objednejte si Kingston SNV125-S2/30GB ještě dnes</h3>
+<p>Pokud hledáte <strong>použitý HDD</strong> nebo SSD s malou kapacitou za rozumnou cenu, Kingston SNV125-S2/30GB je skvělou volbou s ověřenou spolehlivostí.</p>
 
-<p>Nečekejte, než bude tento <strong>repasovaný disk Kingston SNV125-S2/30GB</strong> vyprodán. Skladové zásoby repasovaného hardware jsou omezené. Přidejte disk do košíku, využijte naši <strong>12měsíční záruku</strong> a zrychlete svůj počítač za rozumnou cenu. Máte dotaz? Neváhejte nás kontaktovat – rádi vám poradíme s výběrem.</p>]]></DESCRIPTION>
+<h3>Objednejte si repasovaný disk Kingston ještě dnes!</h3>
+
+<p>Přidejte si <strong>Kingston SNV125-S2/30GB</strong> do košíku a dopřejte svému počítači nový život. Každý <strong>repasovaný disk</strong> z nabídky <strong>ImportPC.cz</strong> je prověřený, funkční a připravený k okamžitému použití. V případě dotazů se na nás neváhejte obrátit – rádi vám poradíme s výběrem!</p>]]></DESCRIPTION>
 <MANUFACTURER>Kingston</MANUFACTURER>
 <WARRANTY>12 měsíců</WARRANTY>
 <ADULT>0</ADULT>
@@ -308,7 +312,7 @@
 <SHORT_DESCRIPTION><![CDATA[<p>500 GB HDD 2.5" (SATA II, 5.400 ot/min), otestováno, záruka 12 měsíců.</p>]]></SHORT_DESCRIPTION>
 <DESCRIPTION><![CDATA[<h2>Repasovaný disk Toshiba MQ01ABD050 – 500 GB 2.5" HDD za skvělou cenu</h2>
 
-<p>Hledáte spolehlivý <strong>použitý HDD</strong> s dostatečnou kapacitou pro váš notebook nebo externí box? <strong>Toshiba MQ01ABD050</strong> s kapacitou <strong>500 GB</strong> je prověřený <strong>repasovaný disk</strong>, který nabídne tichý chod, nízkou spotřebu a ověřený zdravotní stav. Ideální volba, když potřebujete úložiště za rozumnou cenu bez kompromisů na kvalitě.</p>
+<p>Hledáte spolehlivý <strong>použitý HDD</strong> s dostatečnou kapacitou pro váš notebook nebo externí box? <strong>Toshiba MQ01ABD050</strong> je prověřený <strong>500 GB disk</strong> ve formátu 2.5", který nabídne tichý chod, nízkou spotřebu a spolehlivý výkon pro každodenní práci. Každý kus prochází důkladným testováním, takže máte jistotu, že dostanete plně funkční <strong>repasovaný disk</strong> s ověřeným zdravím.</p>
 
 <h3>Technické parametry</h3>
 
@@ -318,12 +322,16 @@
     <td>Toshiba</td>
   </tr>
   <tr>
-    <th>Model / Série</th>
-    <td>MQ01ABD050 (série MQ01ABD)</td>
+    <th>Model</th>
+    <td>MQ01ABD050</td>
   </tr>
   <tr>
     <th>Part Number</th>
     <td>HDKEB03S5A01 T</td>
+  </tr>
+  <tr>
+    <th>Série</th>
+    <td>MQ01ABD</td>
   </tr>
   <tr>
     <th>Kapacita</th>
@@ -331,7 +339,7 @@
   </tr>
   <tr>
     <th>Formát</th>
-    <td>2.5"</td>
+    <td>2.5" (slim, pro notebooky)</td>
   </tr>
   <tr>
     <th>Rozhraní</th>
@@ -347,35 +355,35 @@
   </tr>
   <tr>
     <th>Stav</th>
-    <td>Repasovaný / Testovaný</td>
+    <td>Repasovaný – plně testovaný</td>
   </tr>
 </table>
 
 <h3>Proč koupit repasovaný disk u ImportPC?</h3>
 
 <ul>
-  <li><strong>Důkladně otestováno</strong> – každý 500 GB disk prochází diagnostikou v nástrojích <strong>HD Sentinel</strong> a <strong>CrystalDiskInfo</strong>, aby měl ověřený zdravotní stav.</li>
-  <li><strong>Bez vadných sektorů</strong> – expedujeme pouze disky s nulovým počtem realokovaných a čekajících sektorů.</li>
-  <li><strong>Záruka 12 měsíců</strong> – na každý použitý HDD poskytujeme plnohodnotnou záruční dobu.</li>
-  <li><strong>Rychlé odeslání do 24 hodin</strong> – objednávky vyřizujeme bleskově, abyste disk měli co nejdříve.</li>
-  <li><strong>Bezpečné antistatické balení</strong> – disk je chráněn proti poškození během přepravy.</li>
+  <li><strong>Důkladně testováno</strong> – každý disk prochází diagnostikou v nástrojích <strong>HD Sentinel</strong> a <strong>CrystalDiskInfo</strong>, aby byl ověřen jeho skutečný stav.</li>
+  <li><strong>Bez vadných sektorů</strong> – prodáváme pouze disky s čistým S.M.A.R.T. a bez realokovaných sektorů.</li>
+  <li><strong>Záruka 12 měsíců</strong> – na každý použitý HDD poskytujeme plnou roční záruku.</li>
+  <li><strong>Rychlé odeslání do 24 hodin</strong> – objednávky expedujeme zpravidla ještě tentýž nebo následující pracovní den.</li>
+  <li><strong>Bezpečné antistatické balení</strong> – disk dorazí chráněný proti poškození při přepravě i proti statickému výboji.</li>
 </ul>
 
-<h3>Využití – pro koho je Toshiba MQ01ABD050 vhodná?</h3>
+<h3>Využití – pro koho je Toshiba MQ01ABD050 ideální?</h3>
 
-<p>Tento <strong>500 GB disk</strong> ve formátu 2.5" se hodí do celé řady zařízení a scénářů:</p>
+<p>Tento <strong>500 GB disk</strong> ve formátu 2.5" se hodí zejména pro:</p>
 
 <ul>
-  <li><strong>Notebooky a netbooky</strong> – jako hlavní úložiště nebo náhrada za poškozený disk ve starším laptopu.</li>
-  <li><strong>Externí USB boxy</strong> – vytvořte si přenosné úložiště na dokumenty, fotografie a zálohy.</li>
-  <li><strong>Datové úložiště a NAS</strong> – tichý provoz a nízké otáčky 5 400 RPM předurčují disk pro nepřetržitý běh.</li>
-  <li><strong>Starší stolní PC a herní konzole</strong> – cenově dostupný upgrade úložného prostoru, například pro PlayStation 3 nebo 4.</li>
-  <li><strong>Multimediální centra a set-top boxy</strong> – dostatek místa na filmy, hudbu i nahrávky z TV.</li>
+  <li><strong>Oživení staršího notebooku</strong> – výměna vadného disku za prověřený repasovaný kus je nejlevnější cesta, jak vrátit notebook do provozu.</li>
+  <li><strong>Sestavení externího úložiště</strong> – stačí vložit disk do USB boxu a máte přenosný <strong>500 GB</strong> úložný prostor na dokumenty, fotky nebo zálohy.</li>
+  <li><strong>Datové úložiště a zálohy</strong> – ideální jako sekundární disk pro archivaci dat, multimédií nebo pravidelné zálohy systému.</li>
+  <li><strong>Domácí server, NAS či DVR</strong> – tichý chod při 5 400 ot/min a nízká spotřeba předurčují tento disk pro nepřetržitý provoz.</li>
+  <li><strong>Upgrade herní konzole</strong> – kompatibilní s konzolemi PlayStation 3/4 a dalšími zařízeními s 2.5" SATA slotem.</li>
 </ul>
 
-<h3>Objednejte repasovaný disk Toshiba ještě dnes</h3>
+<h3>Objednejte si Toshiba MQ01ABD050 ještě dnes</h3>
 
-<p>Nečekejte – <strong>repasovaný disk Toshiba MQ01ABD050 500 GB</strong> za zlomek ceny nového je skladem a připravený k okamžitému odeslání. Přidejte ho do košíku a přesvědčte se, že kvalitní <strong>použitý HDD</strong> z <strong>ImportPC.cz</strong> je ta nejlepší volba pro vaši peněženku i váš počítač.</p>]]></DESCRIPTION>
+<p>Nečekejte – pořiďte si <strong>repasovaný disk Toshiba MQ01ABD050</strong> s kapacitou 500 GB za zlomek ceny nového. Díky důkladnému testování, roční záruce a rychlému odeslání z <strong>ImportPC.cz</strong> nakoupíte bez rizika. <strong>Přidejte disk do košíku a zítra ho můžete mít doma!</strong></p>]]></DESCRIPTION>
 <MANUFACTURER>Toshiba</MANUFACTURER>
 <WARRANTY>12 měsíců</WARRANTY>
 <ADULT>0</ADULT>
@@ -32277,7 +32285,7 @@
 
 <SHOPITEM id="ZZ-T-MIC154-2">
 <NAME>Nabíječka Movano 15V 4A (multipin) 60W do Tablet Microsoft 1796</NAME>
-<GUID>7125809a-c134-4186-b6c9-bc4620735cca</GUID>
+<GUID>41d908f0-2cfd-4f0f-9f51-a9610c0c4d76</GUID>
 <SHORT_DESCRIPTION><![CDATA[<p>Nabíječka Movano 15V 4A 60W. pro notebooky Microsoft. Záruka 24 měsíců.</p>]]></SHORT_DESCRIPTION>
 <DESCRIPTION><![CDATA[<h2>Nabíječka Movano 15V 4A (multipin) 60W do Tablet Microsoft 1796</h2>
 <p>Kvalitní náhradní nabíječka značky <strong>Movano</strong> s výkonem 60W. Plně kompatibilní alternativa k originálnímu adaptéru. Na produkt poskytujeme záruku <strong>24 měsíců</strong>.</p>
@@ -37515,6 +37523,370 @@
 <STOCK_MIN_SUPPLY></STOCK_MIN_SUPPLY>
 <VISIBLE>1</VISIBLE>
 <PART_NUMBER>A17-330P2A</PART_NUMBER>
+<FIRMY_CZ>1</FIRMY_CZ>
+<HEUREKA_HIDDEN>0</HEUREKA_HIDDEN>
+<HEUREKA_CART_HIDDEN>0</HEUREKA_CART_HIDDEN>
+<HEUREKA_CPC></HEUREKA_CPC>
+<ZBOZI_HIDDEN>0</ZBOZI_HIDDEN>
+<ZBOZI_CPC></ZBOZI_CPC>
+<ZBOZI_SEARCH_CPC></ZBOZI_SEARCH_CPC>
+<ARUKERESO_HIDDEN>0</ARUKERESO_HIDDEN>
+<ARUKERESO_MARKETPLACE_HIDDEN>0</ARUKERESO_MARKETPLACE_HIDDEN>
+<DECIMAL_COUNT>0</DECIMAL_COUNT>
+<NEGATIVE_AMOUNT>0</NEGATIVE_AMOUNT>
+<UNIT_OF_MEASURE><PACKAGE_AMOUNT></PACKAGE_AMOUNT><PACKAGE_AMOUNT_UNIT></PACKAGE_AMOUNT_UNIT><MEASURE_AMOUNT></MEASURE_AMOUNT><MEASURE_AMOUNT_UNIT></MEASURE_AMOUNT_UNIT></UNIT_OF_MEASURE>
+<PRICE_RATIO>1</PRICE_RATIO>
+<MIN_PRICE_RATIO>0</MIN_PRICE_RATIO>
+<ACTION_PRICE></ACTION_PRICE>
+<APPLY_LOYALTY_DISCOUNT>1</APPLY_LOYALTY_DISCOUNT>
+<APPLY_VOLUME_DISCOUNT>1</APPLY_VOLUME_DISCOUNT>
+<APPLY_QUANTITY_DISCOUNT>1</APPLY_QUANTITY_DISCOUNT>
+<APPLY_DISCOUNT_COUPON>1</APPLY_DISCOUNT_COUPON>
+<RECYCLING_FEE_CATEGORY></RECYCLING_FEE_CATEGORY>
+<RECYCLING_FEE_PRICE></RECYCLING_FEE_PRICE>
+<RECYCLING_FEE_CURRENCY></RECYCLING_FEE_CURRENCY>
+<RECYCLING_FEE_TYPE></RECYCLING_FEE_TYPE>
+
+</SHOPITEM>
+
+<SHOPITEM id="OZ-LEN-40Y7700">
+<NAME>Nabíječka Lenovo 20V 3.25A 65W - originální</NAME>
+<GUID>8e519c11-0cc6-4549-99fa-4c22687f3d8a</GUID>
+<SHORT_DESCRIPTION><![CDATA[<p>Nabíječka Lenovo 20V 3.25A 65W. pro notebooky Lenovo, IBM. Záruka 24 měsíců.</p>]]></SHORT_DESCRIPTION>
+<DESCRIPTION><![CDATA[<h2>Nabíječka Lenovo 20V 3.25A 65W - originální</h2>
+<p>Kvalitní náhradní nabíječka značky <strong>Lenovo</strong> s výkonem 65W. Plně kompatibilní alternativa k originálnímu adaptéru. Na produkt poskytujeme záruku <strong>24 měsíců</strong>.</p>
+<h3>Technické specifikace</h3>
+<table border="1" cellpadding="8" cellspacing="0" style="border-collapse:collapse; width:100%; max-width:500px;">
+<tbody>
+<tr><td><strong>Výstupní napětí</strong></td><td>20V 3.25A</td></tr>
+<tr><td><strong>Výkon</strong></td><td>65W</td></tr>
+<tr><td><strong>Konektor</strong></td><td>7.9 x 5.5 mm, PIN</td></tr>
+<tr><td><strong>Vstupní napětí</strong></td><td>100-240V</td></tr>
+<tr><td><strong>Certifikace</strong></td><td>CE</td></tr>
+<tr><td><strong>Záruka</strong></td><td>24 měsíců</td></tr>
+</tbody>
+</table>
+<h3>Kompatibilní zařízení</h3>
+<ul>
+  <li><strong>Lenovo ThinkPad:</strong> T60</li>
+  <li><strong>Ostatní:</strong> T61, T400, T410, T420, T430, T500, T510, T520, T530, X60, X61, X200, X201, X220, X230 a další (10)</li>
+</ul>
+<h3>O značce</h3>
+<p>Nabíječka značky <strong>Lenovo</strong> – spolehlivé řešení s certifikací CE.</p>
+<h3>Co je v balení</h3>
+<ul>
+  <li>Nabíječka Lenovo 65W</li>
+  <li>Napájecí kabel (EU zástrčka)</li>
+  <li>Záruční list (24 měsíců)</li>
+</ul>
+<h3>Proč koupit u ImportPC?</h3>
+<ul>
+  <li>Záruka <strong>24 měsíců</strong> na každou nabíječku</li>
+  <li>Rychlé odeslání do <strong>24 hodin</strong></li>
+  <li>Bezpečné balení pro přepravu</li>
+  <li>Certifikované produkty (CE, RoHS)</li>
+  <li>Zákaznická podpora a poradenství</li>
+  <li>Možnost vrácení do 14 dnů</li>
+</ul>
+]]></DESCRIPTION>
+<MANUFACTURER>Lenovo</MANUFACTURER>
+<WARRANTY>24 měsíců</WARRANTY>
+<ADULT>0</ADULT>
+<ITEM_TYPE>product</ITEM_TYPE>
+<CATEGORIES>
+<CATEGORY>Příslušenství &gt;&gt; Nabíječky pro notebooky &gt;&gt; Nabíječky Lenovo</CATEGORY>
+<DEFAULT_CATEGORY google-id="505295">Příslušenství &gt;&gt; Nabíječky pro notebooky &gt;&gt; Nabíječky Lenovo</DEFAULT_CATEGORY>
+</CATEGORIES>
+<IMAGES>
+<IMAGE description="Hlavní fotografie">https://raw.githubusercontent.com/petrfilo-arch/importpc-feed/main/images/OZ-LEN-40Y7700_1.jpg</IMAGE>
+<IMAGE description="Fotografie 2">https://raw.githubusercontent.com/petrfilo-arch/importpc-feed/main/images/OZ-LEN-40Y7700_2.jpg</IMAGE>
+<IMAGE description="Fotografie 3">https://raw.githubusercontent.com/petrfilo-arch/importpc-feed/main/images/OZ-LEN-40Y7700_3.jpg</IMAGE>
+<IMAGE description="Fotografie 4">https://raw.githubusercontent.com/petrfilo-arch/importpc-feed/main/images/OZ-LEN-40Y7700_4.jpg</IMAGE>
+<IMAGE description="Fotografie 5">https://raw.githubusercontent.com/petrfilo-arch/importpc-feed/main/images/OZ-LEN-40Y7700_5.jpg</IMAGE>
+<IMAGE description="Fotografie 6">https://raw.githubusercontent.com/petrfilo-arch/importpc-feed/main/images/OZ-LEN-40Y7700_6.jpg</IMAGE>
+</IMAGES>
+<TEXT_PROPERTIES>
+<TEXT_PROPERTY><NAME>Kompatibilita</NAME><VALUE>Lenovo, IBM</VALUE><DESCRIPTION></DESCRIPTION></TEXT_PROPERTY>
+</TEXT_PROPERTIES>
+<INFORMATION_PARAMETERS>
+<INFORMATION_PARAMETER><NAME>Nabíječka - Napětí</NAME><VALUE>20V</VALUE></INFORMATION_PARAMETER>
+<INFORMATION_PARAMETER><NAME>Nabíječka - Výkon</NAME><VALUE>65W</VALUE></INFORMATION_PARAMETER>
+<INFORMATION_PARAMETER><NAME>Nabíječka - Konektor</NAME><VALUE>7.9 x 5.5 mm, PIN</VALUE></INFORMATION_PARAMETER>
+</INFORMATION_PARAMETERS>
+<FLAGS>
+<FLAG><CODE>action</CODE><ACTIVE>0</ACTIVE></FLAG>
+<FLAG><CODE>tip</CODE><ACTIVE>0</ACTIVE></FLAG>
+<FLAG><CODE>new</CODE><ACTIVE>0</ACTIVE></FLAG>
+<FLAG><CODE>custom1</CODE><ACTIVE>0</ACTIVE></FLAG>
+</FLAGS>
+<VISIBILITY>visible</VISIBILITY>
+<SEO_TITLE>Nabíječka Lenovo 20V 3.25A 65W - originální - Lenovo nabíječka, zár...</SEO_TITLE>
+<META_DESCRIPTION>Nabíječka Lenovo 20V 3.25A 65W - originální - kvalitní náhradní nabíječka Lenovo. Kompatibilní s Lenovo ThinkPad T60, T61, T400, T410, T420, T430, T500, ...</META_DESCRIPTION>
+<ALLOWS_IPLATBA>1</ALLOWS_IPLATBA>
+<ALLOWS_PAY_ONLINE>1</ALLOWS_PAY_ONLINE>
+<INTERNAL_NOTE></INTERNAL_NOTE>
+<HEUREKA_CATEGORY_ID>4206</HEUREKA_CATEGORY_ID>
+<ZBOZI_CATEGORY_ID>126</ZBOZI_CATEGORY_ID>
+<GOOGLE_CATEGORY_ID>505295</GOOGLE_CATEGORY_ID>
+<GLAMI_CATEGORY_ID></GLAMI_CATEGORY_ID>
+<FREE_SHIPPING>0</FREE_SHIPPING>
+<FREE_BILLING>0</FREE_BILLING>
+<UNIT>ks</UNIT>
+<CODE>OZ-LEN-40Y7700</CODE>
+<EAN>0882861067541</EAN>
+<LOGISTIC><WEIGHT>0.3</WEIGHT></LOGISTIC>
+<ATYPICAL_PRODUCT><ATYPICAL_SHIPPING>0</ATYPICAL_SHIPPING><ATYPICAL_BILLING>0</ATYPICAL_BILLING></ATYPICAL_PRODUCT>
+<CURRENCY>CZK</CURRENCY>
+<VAT>21</VAT>
+<PRICE_VAT>529</PRICE_VAT>
+<PURCHASE_PRICE>297</PURCHASE_PRICE>
+<PURCHASE_VAT>21</PURCHASE_VAT>
+<PURCHASE_PRICE_INCL_VAT>1</PURCHASE_PRICE_INCL_VAT>
+<STANDARD_PRICE></STANDARD_PRICE>
+<STOCK><AMOUNT>3</AMOUNT><LOCATION></LOCATION><MINIMAL_AMOUNT></MINIMAL_AMOUNT><MAXIMAL_AMOUNT></MAXIMAL_AMOUNT></STOCK>
+<STOCK_MIN_SUPPLY></STOCK_MIN_SUPPLY>
+<VISIBLE>1</VISIBLE>
+<PART_NUMBER>40Y7700</PART_NUMBER>
+<FIRMY_CZ>1</FIRMY_CZ>
+<HEUREKA_HIDDEN>0</HEUREKA_HIDDEN>
+<HEUREKA_CART_HIDDEN>0</HEUREKA_CART_HIDDEN>
+<HEUREKA_CPC></HEUREKA_CPC>
+<ZBOZI_HIDDEN>0</ZBOZI_HIDDEN>
+<ZBOZI_CPC></ZBOZI_CPC>
+<ZBOZI_SEARCH_CPC></ZBOZI_SEARCH_CPC>
+<ARUKERESO_HIDDEN>0</ARUKERESO_HIDDEN>
+<ARUKERESO_MARKETPLACE_HIDDEN>0</ARUKERESO_MARKETPLACE_HIDDEN>
+<DECIMAL_COUNT>0</DECIMAL_COUNT>
+<NEGATIVE_AMOUNT>0</NEGATIVE_AMOUNT>
+<UNIT_OF_MEASURE><PACKAGE_AMOUNT></PACKAGE_AMOUNT><PACKAGE_AMOUNT_UNIT></PACKAGE_AMOUNT_UNIT><MEASURE_AMOUNT></MEASURE_AMOUNT><MEASURE_AMOUNT_UNIT></MEASURE_AMOUNT_UNIT></UNIT_OF_MEASURE>
+<PRICE_RATIO>1</PRICE_RATIO>
+<MIN_PRICE_RATIO>0</MIN_PRICE_RATIO>
+<ACTION_PRICE></ACTION_PRICE>
+<APPLY_LOYALTY_DISCOUNT>1</APPLY_LOYALTY_DISCOUNT>
+<APPLY_VOLUME_DISCOUNT>1</APPLY_VOLUME_DISCOUNT>
+<APPLY_QUANTITY_DISCOUNT>1</APPLY_QUANTITY_DISCOUNT>
+<APPLY_DISCOUNT_COUPON>1</APPLY_DISCOUNT_COUPON>
+<RECYCLING_FEE_CATEGORY></RECYCLING_FEE_CATEGORY>
+<RECYCLING_FEE_PRICE></RECYCLING_FEE_PRICE>
+<RECYCLING_FEE_CURRENCY></RECYCLING_FEE_CURRENCY>
+<RECYCLING_FEE_TYPE></RECYCLING_FEE_TYPE>
+
+</SHOPITEM>
+
+<SHOPITEM id="DC-TAB-USBC1.2">
+<NAME>Kabel pro nabíječku USB-C 120 cm</NAME>
+<GUID>dc536cea-712f-42da-a420-1b1e5ae960ea</GUID>
+<SHORT_DESCRIPTION><![CDATA[<p>Nabíječka Movano N/A. pro notebooky Dell, Lenovo, HP, Acer. Záruka 24 měsíců.</p>]]></SHORT_DESCRIPTION>
+<DESCRIPTION><![CDATA[<h2>Kabel pro nabíječku USB-C 120 cm</h2>
+<p>Kvalitní náhradní nabíječka značky <strong>Movano</strong> s výkonem N/A. Plně kompatibilní alternativa k originálnímu adaptéru. Na produkt poskytujeme záruku <strong>24 měsíců</strong>.</p>
+<h3>Technické specifikace</h3>
+<table border="1" cellpadding="8" cellspacing="0" style="border-collapse:collapse; width:100%; max-width:500px;">
+<tbody>
+<tr><td><strong>Výkon</strong></td><td>N/A</td></tr>
+<tr><td><strong>Konektor</strong></td><td>USB-C</td></tr>
+<tr><td><strong>Záruka</strong></td><td>24 měsíců</td></tr>
+</tbody>
+</table>
+<h3>Kompatibilní zařízení</h3>
+<ul>
+  <li><strong>Dell XPS:</strong> 12, 13</li>
+  <li><strong>Lenovo ThinkPad:</strong> 11E, YOGA 11E</li>
+  <li><strong>HP Chromebook:</strong> 11</li>
+  <li><strong>HP Elitebook:</strong> Folio G1</li>
+  <li><strong>Acer Switch:</strong> Alpha 12</li>
+</ul>
+<h3>O značce</h3>
+<p><strong>Movano</strong> je polská značka založená v roce 2005, specializující se na náhradní nabíječky a baterie pro notebooky. Nabíječky Movano jsou pojištěné, mají certifikaci CE, RoHS a FCC. Jsou testované na bezpečnost a kompatibilitu. Více než 15 let zkušeností na trhu zaručuje spolehlivost a kvalitu.</p>
+<h3>Co je v balení</h3>
+<ul>
+  <li>Nabíječka Movano N/A</li>
+  <li>Napájecí kabel (EU zástrčka)</li>
+  <li>Záruční list (24 měsíců)</li>
+</ul>
+<h3>Proč koupit u ImportPC?</h3>
+<ul>
+  <li>Záruka <strong>24 měsíců</strong> na každou nabíječku</li>
+  <li>Rychlé odeslání do <strong>24 hodin</strong></li>
+  <li>Bezpečné balení pro přepravu</li>
+  <li>Certifikované produkty (CE, RoHS)</li>
+  <li>Zákaznická podpora a poradenství</li>
+  <li>Možnost vrácení do 14 dnů</li>
+</ul>
+]]></DESCRIPTION>
+<MANUFACTURER>Movano</MANUFACTURER>
+<WARRANTY>24 měsíců</WARRANTY>
+<ADULT>0</ADULT>
+<ITEM_TYPE>product</ITEM_TYPE>
+<CATEGORIES>
+<CATEGORY>Příslušenství &gt;&gt; Kabely a adaptéry</CATEGORY>
+<DEFAULT_CATEGORY google-id="505295">Příslušenství &gt;&gt; Kabely a adaptéry</DEFAULT_CATEGORY>
+</CATEGORIES>
+<IMAGES>
+<IMAGE description="Hlavní fotografie">https://raw.githubusercontent.com/petrfilo-arch/importpc-feed/main/images/DC-TAB-USBC1.2_1.jpg</IMAGE>
+<IMAGE description="Fotografie 2">https://raw.githubusercontent.com/petrfilo-arch/importpc-feed/main/images/DC-TAB-USBC1.2_2.jpg</IMAGE>
+<IMAGE description="Fotografie 3">https://raw.githubusercontent.com/petrfilo-arch/importpc-feed/main/images/DC-TAB-USBC1.2_3.jpg</IMAGE>
+</IMAGES>
+<TEXT_PROPERTIES>
+<TEXT_PROPERTY><NAME>Kompatibilita</NAME><VALUE>Dell, Lenovo, HP, Acer</VALUE><DESCRIPTION></DESCRIPTION></TEXT_PROPERTY>
+</TEXT_PROPERTIES>
+<INFORMATION_PARAMETERS>
+<INFORMATION_PARAMETER><NAME>Nabíječka - Napětí</NAME><VALUE>USB-C</VALUE></INFORMATION_PARAMETER>
+<INFORMATION_PARAMETER><NAME>Nabíječka - Výkon</NAME><VALUE>N/A</VALUE></INFORMATION_PARAMETER>
+<INFORMATION_PARAMETER><NAME>Nabíječka - Konektor</NAME><VALUE>USB-C</VALUE></INFORMATION_PARAMETER>
+</INFORMATION_PARAMETERS>
+<FLAGS>
+<FLAG><CODE>action</CODE><ACTIVE>0</ACTIVE></FLAG>
+<FLAG><CODE>tip</CODE><ACTIVE>0</ACTIVE></FLAG>
+<FLAG><CODE>new</CODE><ACTIVE>0</ACTIVE></FLAG>
+<FLAG><CODE>custom1</CODE><ACTIVE>0</ACTIVE></FLAG>
+</FLAGS>
+<VISIBILITY>visible</VISIBILITY>
+<SEO_TITLE>Kabel pro nabíječku USB-C 120 cm - Movano nabíječka, záruka 24 měsíců</SEO_TITLE>
+<META_DESCRIPTION>Kabel pro nabíječku USB-C 120 cm - kvalitní náhradní nabíječka Movano. Kompatibilní s Dell XPS 12, Dell XPS 13, Lenovo ThinkPad 11E, Lenovo ThinkPad YOGA...</META_DESCRIPTION>
+<ALLOWS_IPLATBA>1</ALLOWS_IPLATBA>
+<ALLOWS_PAY_ONLINE>1</ALLOWS_PAY_ONLINE>
+<INTERNAL_NOTE></INTERNAL_NOTE>
+<HEUREKA_CATEGORY_ID>4206</HEUREKA_CATEGORY_ID>
+<ZBOZI_CATEGORY_ID>126</ZBOZI_CATEGORY_ID>
+<GOOGLE_CATEGORY_ID>505295</GOOGLE_CATEGORY_ID>
+<GLAMI_CATEGORY_ID></GLAMI_CATEGORY_ID>
+<FREE_SHIPPING>0</FREE_SHIPPING>
+<FREE_BILLING>0</FREE_BILLING>
+<UNIT>ks</UNIT>
+<CODE>DC-TAB-USBC1.2</CODE>
+<LOGISTIC><WEIGHT>0.3</WEIGHT></LOGISTIC>
+<ATYPICAL_PRODUCT><ATYPICAL_SHIPPING>0</ATYPICAL_SHIPPING><ATYPICAL_BILLING>0</ATYPICAL_BILLING></ATYPICAL_PRODUCT>
+<CURRENCY>CZK</CURRENCY>
+<VAT>21</VAT>
+<PRICE_VAT>109</PRICE_VAT>
+<PURCHASE_PRICE>42</PURCHASE_PRICE>
+<PURCHASE_VAT>21</PURCHASE_VAT>
+<PURCHASE_PRICE_INCL_VAT>1</PURCHASE_PRICE_INCL_VAT>
+<STANDARD_PRICE></STANDARD_PRICE>
+<STOCK><AMOUNT>10</AMOUNT><LOCATION></LOCATION><MINIMAL_AMOUNT></MINIMAL_AMOUNT><MAXIMAL_AMOUNT></MAXIMAL_AMOUNT></STOCK>
+<STOCK_MIN_SUPPLY></STOCK_MIN_SUPPLY>
+<VISIBLE>1</VISIBLE>
+<PART_NUMBER>DC-TAB-USBC1.2</PART_NUMBER>
+<FIRMY_CZ>1</FIRMY_CZ>
+<HEUREKA_HIDDEN>0</HEUREKA_HIDDEN>
+<HEUREKA_CART_HIDDEN>0</HEUREKA_CART_HIDDEN>
+<HEUREKA_CPC></HEUREKA_CPC>
+<ZBOZI_HIDDEN>0</ZBOZI_HIDDEN>
+<ZBOZI_CPC></ZBOZI_CPC>
+<ZBOZI_SEARCH_CPC></ZBOZI_SEARCH_CPC>
+<ARUKERESO_HIDDEN>0</ARUKERESO_HIDDEN>
+<ARUKERESO_MARKETPLACE_HIDDEN>0</ARUKERESO_MARKETPLACE_HIDDEN>
+<DECIMAL_COUNT>0</DECIMAL_COUNT>
+<NEGATIVE_AMOUNT>0</NEGATIVE_AMOUNT>
+<UNIT_OF_MEASURE><PACKAGE_AMOUNT></PACKAGE_AMOUNT><PACKAGE_AMOUNT_UNIT></PACKAGE_AMOUNT_UNIT><MEASURE_AMOUNT></MEASURE_AMOUNT><MEASURE_AMOUNT_UNIT></MEASURE_AMOUNT_UNIT></UNIT_OF_MEASURE>
+<PRICE_RATIO>1</PRICE_RATIO>
+<MIN_PRICE_RATIO>0</MIN_PRICE_RATIO>
+<ACTION_PRICE></ACTION_PRICE>
+<APPLY_LOYALTY_DISCOUNT>1</APPLY_LOYALTY_DISCOUNT>
+<APPLY_VOLUME_DISCOUNT>1</APPLY_VOLUME_DISCOUNT>
+<APPLY_QUANTITY_DISCOUNT>1</APPLY_QUANTITY_DISCOUNT>
+<APPLY_DISCOUNT_COUPON>1</APPLY_DISCOUNT_COUPON>
+<RECYCLING_FEE_CATEGORY></RECYCLING_FEE_CATEGORY>
+<RECYCLING_FEE_PRICE></RECYCLING_FEE_PRICE>
+<RECYCLING_FEE_CURRENCY></RECYCLING_FEE_CURRENCY>
+<RECYCLING_FEE_TYPE></RECYCLING_FEE_TYPE>
+
+</SHOPITEM>
+
+<SHOPITEM id="OZ-LIT-PA-1041-71">
+<NAME>Nabíječka LiteOn 12V 3.33A 40W - originální</NAME>
+<GUID>32bcb36e-eb84-442e-8024-63b90c3208ac</GUID>
+<SHORT_DESCRIPTION><![CDATA[<p>Nabíječka LiteOn 12V 3.33A 40W. pro notebooky LiteOn. Záruka 24 měsíců.</p>]]></SHORT_DESCRIPTION>
+<DESCRIPTION><![CDATA[<h2>Nabíječka LiteOn 12V 3.33A 40W - originální</h2>
+<p>Kvalitní náhradní nabíječka značky <strong>LiteOn</strong> s výkonem 40W. Plně kompatibilní alternativa k originálnímu adaptéru. Na produkt poskytujeme záruku <strong>24 měsíců</strong>.</p>
+<h3>Technické specifikace</h3>
+<table border="1" cellpadding="8" cellspacing="0" style="border-collapse:collapse; width:100%; max-width:500px;">
+<tbody>
+<tr><td><strong>Výstupní napětí</strong></td><td>12V 3.33A</td></tr>
+<tr><td><strong>Výkon</strong></td><td>40W</td></tr>
+<tr><td><strong>Konektor</strong></td><td>LED dioda</td></tr>
+<tr><td><strong>Vstupní napětí</strong></td><td>100-240V</td></tr>
+<tr><td><strong>Certifikace</strong></td><td>CE</td></tr>
+<tr><td><strong>Záruka</strong></td><td>24 měsíců</td></tr>
+</tbody>
+</table>
+<h3>Kompatibilní zařízení</h3>
+<ul>
+  <li><strong>Zařízení s:</strong> 12V LED napájecím konektorem</li>
+</ul>
+<h3>O značce</h3>
+<p>Nabíječka značky <strong>LiteOn</strong> – spolehlivé řešení s certifikací CE.</p>
+<h3>Co je v balení</h3>
+<ul>
+  <li>Nabíječka LiteOn 40W</li>
+  <li>Napájecí kabel (EU zástrčka)</li>
+  <li>Záruční list (24 měsíců)</li>
+</ul>
+<h3>Proč koupit u ImportPC?</h3>
+<ul>
+  <li>Záruka <strong>24 měsíců</strong> na každou nabíječku</li>
+  <li>Rychlé odeslání do <strong>24 hodin</strong></li>
+  <li>Bezpečné balení pro přepravu</li>
+  <li>Certifikované produkty (CE, RoHS)</li>
+  <li>Zákaznická podpora a poradenství</li>
+  <li>Možnost vrácení do 14 dnů</li>
+</ul>
+]]></DESCRIPTION>
+<MANUFACTURER>LiteOn</MANUFACTURER>
+<WARRANTY>24 měsíců</WARRANTY>
+<ADULT>0</ADULT>
+<ITEM_TYPE>product</ITEM_TYPE>
+<CATEGORIES>
+<CATEGORY>Příslušenství &gt;&gt; Nabíječky pro notebooky</CATEGORY>
+<DEFAULT_CATEGORY google-id="505295">Příslušenství &gt;&gt; Nabíječky pro notebooky</DEFAULT_CATEGORY>
+</CATEGORIES>
+<IMAGES>
+<IMAGE description="Hlavní fotografie">https://raw.githubusercontent.com/petrfilo-arch/importpc-feed/main/images/OZ-LIT-PA-1041-71_1.jpg</IMAGE>
+<IMAGE description="Fotografie 2">https://raw.githubusercontent.com/petrfilo-arch/importpc-feed/main/images/OZ-LIT-PA-1041-71_2.jpg</IMAGE>
+<IMAGE description="Fotografie 3">https://raw.githubusercontent.com/petrfilo-arch/importpc-feed/main/images/OZ-LIT-PA-1041-71_3.jpg</IMAGE>
+<IMAGE description="Fotografie 4">https://raw.githubusercontent.com/petrfilo-arch/importpc-feed/main/images/OZ-LIT-PA-1041-71_4.jpg</IMAGE>
+</IMAGES>
+<TEXT_PROPERTIES>
+<TEXT_PROPERTY><NAME>Kompatibilita</NAME><VALUE>LiteOn</VALUE><DESCRIPTION></DESCRIPTION></TEXT_PROPERTY>
+</TEXT_PROPERTIES>
+<INFORMATION_PARAMETERS>
+<INFORMATION_PARAMETER><NAME>Nabíječka - Napětí</NAME><VALUE>12V</VALUE></INFORMATION_PARAMETER>
+<INFORMATION_PARAMETER><NAME>Nabíječka - Výkon</NAME><VALUE>40W</VALUE></INFORMATION_PARAMETER>
+<INFORMATION_PARAMETER><NAME>Nabíječka - Konektor</NAME><VALUE>LED dioda</VALUE></INFORMATION_PARAMETER>
+</INFORMATION_PARAMETERS>
+<FLAGS>
+<FLAG><CODE>action</CODE><ACTIVE>0</ACTIVE></FLAG>
+<FLAG><CODE>tip</CODE><ACTIVE>0</ACTIVE></FLAG>
+<FLAG><CODE>new</CODE><ACTIVE>0</ACTIVE></FLAG>
+<FLAG><CODE>custom1</CODE><ACTIVE>0</ACTIVE></FLAG>
+</FLAGS>
+<VISIBILITY>visible</VISIBILITY>
+<SEO_TITLE>Nabíječka LiteOn 12V 3.33A 40W - originální - LiteOn nabíječka, zár...</SEO_TITLE>
+<META_DESCRIPTION>Nabíječka LiteOn 12V 3.33A 40W - originální - kvalitní náhradní nabíječka LiteOn. Kompatibilní s Zařízení s 12V LED napájecím konektorem. Záruka 24 měsíc...</META_DESCRIPTION>
+<ALLOWS_IPLATBA>1</ALLOWS_IPLATBA>
+<ALLOWS_PAY_ONLINE>1</ALLOWS_PAY_ONLINE>
+<INTERNAL_NOTE></INTERNAL_NOTE>
+<HEUREKA_CATEGORY_ID>4206</HEUREKA_CATEGORY_ID>
+<ZBOZI_CATEGORY_ID>126</ZBOZI_CATEGORY_ID>
+<GOOGLE_CATEGORY_ID>505295</GOOGLE_CATEGORY_ID>
+<GLAMI_CATEGORY_ID></GLAMI_CATEGORY_ID>
+<FREE_SHIPPING>0</FREE_SHIPPING>
+<FREE_BILLING>0</FREE_BILLING>
+<UNIT>ks</UNIT>
+<CODE>OZ-LIT-PA-1041-71</CODE>
+<LOGISTIC><WEIGHT>0.3</WEIGHT></LOGISTIC>
+<ATYPICAL_PRODUCT><ATYPICAL_SHIPPING>0</ATYPICAL_SHIPPING><ATYPICAL_BILLING>0</ATYPICAL_BILLING></ATYPICAL_PRODUCT>
+<CURRENCY>CZK</CURRENCY>
+<VAT>21</VAT>
+<PRICE_VAT>179</PRICE_VAT>
+<PURCHASE_PRICE>83</PURCHASE_PRICE>
+<PURCHASE_VAT>21</PURCHASE_VAT>
+<PURCHASE_PRICE_INCL_VAT>1</PURCHASE_PRICE_INCL_VAT>
+<STANDARD_PRICE></STANDARD_PRICE>
+<STOCK><AMOUNT>6</AMOUNT><LOCATION></LOCATION><MINIMAL_AMOUNT></MINIMAL_AMOUNT><MAXIMAL_AMOUNT></MAXIMAL_AMOUNT></STOCK>
+<STOCK_MIN_SUPPLY></STOCK_MIN_SUPPLY>
+<VISIBLE>1</VISIBLE>
+<PART_NUMBER>PA-1400-1UD1</PART_NUMBER>
 <FIRMY_CZ>1</FIRMY_CZ>
 <HEUREKA_HIDDEN>0</HEUREKA_HIDDEN>
 <HEUREKA_CART_HIDDEN>0</HEUREKA_CART_HIDDEN>
