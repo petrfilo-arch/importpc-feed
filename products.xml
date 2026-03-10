@@ -3,35 +3,97 @@
 
 <SHOPITEM id="MQ01ABD032">
 <NAME>320 GB HDD Toshiba MQ01ABD032 2.5&quot; SATA</NAME>
+<GUID>e2270818-185d-4b66-a62e-1a43a04ca588</GUID>
 <SHORT_DESCRIPTION><![CDATA[<p>320 GB HDD 2.5" (SATA, 5.400 ot/min), otestováno, záruka 12 měsíců.</p>]]></SHORT_DESCRIPTION>
-<DESCRIPTION><![CDATA[<h3>Toshiba MQ01ABD032 – repasovaný disk</h3><ul><li>Model: MQ01ABD032</li><li>Série: MQ01ABD</li><li>Kapacita: 320 GB</li><li>Formát: 2.5&quot;</li><li>Rozhraní: SATA</li><li>Otáčky: 5.400 ot/min</li><li>Mezipaměť: 8 MB</li><li>Part Number: HDKEB04T3A02 T</li></ul><p>Disk je otestován pomocí HD Sentinel nebo CrystalDiskInfo, bez vadných sektorů. Zasíláme bezpečně zabalené. Fotografie je ilustrační.</p>]]></DESCRIPTION>
+<DESCRIPTION><![CDATA[<h2>Repasovaný disk Toshiba MQ01ABD032 – 320 GB 2.5" HDD za skvělou cenu</h2>
+
+<p>Hledáte spolehlivý <strong>použitý HDD</strong> pro váš notebook nebo externí box? <strong>Toshiba MQ01ABD032</strong> s kapacitou <strong>320 GB</strong> je prověřený <strong>repasovaný disk</strong>, který nabídne dostatek prostoru pro operační systém, dokumenty i multimediální soubory. Díky nízkým otáčkám 5 400 ot/min pracuje tiše a s minimální spotřebou energie – ideální volba pro každodenní práci i starší zařízení.</p>
+
+<h3>Technické parametry</h3>
+
+<table>
+  <tr>
+    <th>Výrobce</th>
+    <td>Toshiba</td>
+  </tr>
+  <tr>
+    <th>Model / Série</th>
+    <td>MQ01ABD032 (série MQ01ABD)</td>
+  </tr>
+  <tr>
+    <th>Part Number</th>
+    <td>HDKEB04T3A02 T</td>
+  </tr>
+  <tr>
+    <th>Kapacita</th>
+    <td>320 GB</td>
+  </tr>
+  <tr>
+    <th>Formát</th>
+    <td>2.5" (notebook)</td>
+  </tr>
+  <tr>
+    <th>Rozhraní</th>
+    <td>SATA</td>
+  </tr>
+  <tr>
+    <th>Otáčky</th>
+    <td>5 400 ot/min</td>
+  </tr>
+  <tr>
+    <th>Vyrovnávací paměť (cache)</th>
+    <td>8 MB</td>
+  </tr>
+  <tr>
+    <th>Stav</th>
+    <td>Repasovaný / Použitý – plně otestovaný</td>
+  </tr>
+</table>
+
+<h3>Proč koupit repasovaný disk u ImportPC?</h3>
+
+<ul>
+  <li><strong>Důkladně otestováno</strong> – každý disk prochází diagnostikou pomocí <strong>HD Sentinel</strong> a <strong>CrystalDiskInfo</strong>, abyste měli jistotu jeho zdravotního stavu.</li>
+  <li><strong>Bez vadných sektorů</strong> – odesíláme pouze disky s čistým S.M.A.R.T. stavem a bez realokovaných sektorů.</li>
+  <li><strong>Záruka 12 měsíců</strong> – na každý <strong>použitý HDD</strong> poskytujeme plnou roční záruku.</li>
+  <li><strong>Rychlé odeslání do 24 hodin</strong> – objednáte dnes, zítra je balíček na cestě k vám.</li>
+  <li><strong>Bezpečné antistatické balení</strong> – disk je chráněn antistatickým obalem a tlumicím materiálem, aby dorazil v perfektním stavu.</li>
+</ul>
+
+<h3>Využití – pro koho je 320 GB disk Toshiba MQ01ABD032 vhodný?</h3>
+
+<ul>
+  <li><strong>Oživení staršího notebooku</strong> – výměna vadného disku za ověřený repasovaný kus je nejrychlejší cesta, jak dát počítači druhou šanci.</li>
+  <li><strong>Sestavení externího úložiště</strong> – v kombinaci s USB boxem získáte přenosný <strong>320 GB disk</strong> na zálohy a přenos dat.</li>
+  <li><strong>Systémový disk pro kancelářské PC</strong> – pro běžnou práci s dokumenty, prohlížení webu a e-maily plně dostačuje.</li>
+  <li><strong>Domácí NAS a serverové projekty</strong> – cenově výhodné řešení pro úložiště, kde nepotřebujete velkou kapacitu.</li>
+  <li><strong>Výukové a bastlířské projekty</strong> – ideální disk pro Raspberry Pi, testovací instalace systémů nebo laboratorní účely.</li>
+</ul>
+
+<h3>Objednejte si repasovaný disk Toshiba MQ01ABD032 ještě dnes</h3>
+
+<p>Nečekejte – <strong>repasovaný disk Toshiba MQ01ABD032 320 GB</strong> je skladem a připraven k okamžitému odeslání. Přidejte ho do košíku a využijte výhodnou cenu na <strong>importpc.cz</strong>. Se zárukou 12 měsíců a důkladným testováním nemáte co ztratit. Máte dotaz? Neváhejte nás kontaktovat – rádi vám poradíme s výběrem!</p>]]></DESCRIPTION>
 <MANUFACTURER>Toshiba</MANUFACTURER>
 <WARRANTY>12 měsíců</WARRANTY>
-<SUPPLIER>Petr Le Filo</SUPPLIER>
 <ADULT>0</ADULT>
 <ITEM_TYPE>bazaar</ITEM_TYPE>
 <CATEGORIES>
-<CATEGORY id="910">Komponenty pro notebooky a počítače &gt; Pevné disky do PC a notebooku</CATEGORY>
+<CATEGORY id="910">Komponenty pro notebooky a počítače &gt;&gt; Pevné disky do PC a notebooku</CATEGORY>
 <DEFAULT_CATEGORY id="910" google-id="380">Komponenty pro notebooky a počítače &gt; Pevné disky do PC a notebooku</DEFAULT_CATEGORY>
 </CATEGORIES>
 <IMAGES><IMAGE description="Ilustrační fotografie">https://petrfilo-arch.github.io/importpc-feed/images/hdd_25_sata_big.jpg</IMAGE></IMAGES>
 <IMAGE_REF>https://petrfilo-arch.github.io/importpc-feed/images/hdd_25_sata_big.jpg</IMAGE_REF>
 <TEXT_PROPERTIES>
-<TEXT_PROPERTY><NAME>Značka</NAME><VALUE>Toshiba</VALUE><DESCRIPTION></DESCRIPTION></TEXT_PROPERTY>
 <TEXT_PROPERTY><NAME>Model</NAME><VALUE>MQ01ABD032</VALUE><DESCRIPTION></DESCRIPTION></TEXT_PROPERTY>
-<TEXT_PROPERTY><NAME>Kapacita</NAME><VALUE>320 GB</VALUE><DESCRIPTION></DESCRIPTION></TEXT_PROPERTY>
-<TEXT_PROPERTY><NAME>Formát</NAME><VALUE>2.5&quot;</VALUE><DESCRIPTION></DESCRIPTION></TEXT_PROPERTY>
-<TEXT_PROPERTY><NAME>Rozhraní</NAME><VALUE>SATA</VALUE><DESCRIPTION></DESCRIPTION></TEXT_PROPERTY>
-<TEXT_PROPERTY><NAME>Otáčky</NAME><VALUE>5.400 ot/min</VALUE><DESCRIPTION></DESCRIPTION></TEXT_PROPERTY>
-<TEXT_PROPERTY><NAME>Mezipaměť</NAME><VALUE>8 MB</VALUE><DESCRIPTION></DESCRIPTION></TEXT_PROPERTY>
 </TEXT_PROPERTIES>
 <INFORMATION_PARAMETERS>
+<INFORMATION_PARAMETER><NAME>HDD - Výrobce</NAME><VALUE>Toshiba</VALUE></INFORMATION_PARAMETER>
 <INFORMATION_PARAMETER><NAME>HDD - Formát</NAME><VALUE>2.5&quot;</VALUE></INFORMATION_PARAMETER>
 <INFORMATION_PARAMETER><NAME>HDD - Rozhraní</NAME><VALUE>SATA</VALUE></INFORMATION_PARAMETER>
 <INFORMATION_PARAMETER><NAME>HDD - Kapacita</NAME><VALUE>320 GB</VALUE></INFORMATION_PARAMETER>
 <INFORMATION_PARAMETER><NAME>HDD - Otáčky</NAME><VALUE>5.400 ot/min</VALUE></INFORMATION_PARAMETER>
-<INFORMATION_PARAMETER><NAME>HDD - Mezipaměť</NAME><VALUE>8 MB</VALUE></INFORMATION_PARAMETER>
 <INFORMATION_PARAMETER><NAME>HDD - Série</NAME><VALUE>MQ01ABD</VALUE></INFORMATION_PARAMETER>
+<INFORMATION_PARAMETER><NAME>HDD - Mezipaměť</NAME><VALUE>8 MB</VALUE></INFORMATION_PARAMETER>
 </INFORMATION_PARAMETERS>
 <FLAGS>
 <FLAG><CODE>action</CODE><ACTIVE>0</ACTIVE></FLAG>
@@ -45,6 +107,7 @@
 <ALLOWS_IPLATBA>1</ALLOWS_IPLATBA>
 <ALLOWS_PAY_ONLINE>1</ALLOWS_PAY_ONLINE>
 <INTERNAL_NOTE></INTERNAL_NOTE>
+<ITEM_CONDITION><GRADE>refurbished</GRADE><DESCRIPTION></DESCRIPTION></ITEM_CONDITION>
 <HEUREKA_CATEGORY_ID>772</HEUREKA_CATEGORY_ID>
 <ZBOZI_CATEGORY_ID>2176</ZBOZI_CATEGORY_ID>
 <GOOGLE_CATEGORY_ID>380</GOOGLE_CATEGORY_ID>
@@ -92,37 +155,258 @@
 
 </SHOPITEM>
 
-<SHOPITEM id="MQ01ABD050">
-<NAME>500 GB HDD Toshiba MQ01ABD050 2.5&quot; SATA</NAME>
-<SHORT_DESCRIPTION><![CDATA[<p>500 GB HDD 2.5" (SATA, 5.400 ot/min), otestováno, záruka 12 měsíců.</p>]]></SHORT_DESCRIPTION>
-<DESCRIPTION><![CDATA[<h3>Toshiba MQ01ABD050 – repasovaný disk</h3><ul><li>Model: MQ01ABD050</li><li>Série: MQ01ABD</li><li>Kapacita: 500 GB</li><li>Formát: 2.5&quot;</li><li>Rozhraní: SATA</li><li>Otáčky: 5.400 ot/min</li><li>Mezipaměť: 8 MB</li><li>Part Number: HDKEB03S5A01 T</li></ul><p>Disk je otestován pomocí HD Sentinel nebo CrystalDiskInfo, bez vadných sektorů. Zasíláme bezpečně zabalené. Fotografie je ilustrační.</p>]]></DESCRIPTION>
-<MANUFACTURER>Toshiba</MANUFACTURER>
+<SHOPITEM id="SNV125S230GB">
+<NAME>30 GB SSD Kingston SSDNow V Series 2.5&quot; SATA II</NAME>
+<GUID>0d2328e2-2e68-46ab-84de-023f17dac8da</GUID>
+<SHORT_DESCRIPTION><![CDATA[<p>30 GB SSD 2.5" (SATA II, SSD), otestováno, záruka 12 měsíců.</p>]]></SHORT_DESCRIPTION>
+<DESCRIPTION><![CDATA[<h2>Repasovaný disk Kingston SNV125-S2/30GB – 30 GB SSD 2.5" SATA II</h2>
+
+<p>Hledáte spolehlivý a cenově dostupný <strong>30 GB disk</strong> pro oživení staršího notebooku nebo jako systémový disk do nenáročného počítače? <strong>Repasovaný disk Kingston SNV125-S2/30GB</strong> z řady SSDNow V Series nabízí výrazně vyšší rychlost oproti klasickým mechanickým diskům – a to za zlomek ceny nového SSD. Každý <strong>použitý HDD</strong> i SSD z naší nabídky prochází důkladnou kontrolou, takže máte jistotu bezproblémového fungování.</p>
+
+<h3>Technické parametry</h3>
+
+<table>
+  <tbody>
+    <tr>
+      <td><strong>Model</strong></td>
+      <td>Kingston SNV125-S2/30GB</td>
+    </tr>
+    <tr>
+      <td><strong>Série</strong></td>
+      <td>SSDNow V Series</td>
+    </tr>
+    <tr>
+      <td><strong>Kapacita</strong></td>
+      <td>30 GB</td>
+    </tr>
+    <tr>
+      <td><strong>Formát</strong></td>
+      <td>2.5"</td>
+    </tr>
+    <tr>
+      <td><strong>Rozhraní</strong></td>
+      <td>SATA II (3 Gb/s)</td>
+    </tr>
+    <tr>
+      <td><strong>Typ disku</strong></td>
+      <td>SSD</td>
+    </tr>
+    <tr>
+      <td><strong>Part Number</strong></td>
+      <td>SNV125-S2/30GB</td>
+    </tr>
+    <tr>
+      <td><strong>Stav</strong></td>
+      <td>Repasovaný / otestovaný</td>
+    </tr>
+  </tbody>
+</table>
+
+<h3>Proč koupit repasovaný disk u ImportPC?</h3>
+
+<ul>
+  <li><strong>Testováno profesionálními nástroji</strong> – každý disk prochází diagnostikou v HD Sentinel a CrystalDiskInfo, kde ověřujeme jeho zdraví a výkon.</li>
+  <li><strong>Bez vadných sektorů</strong> – prodáváme pouze kusy, které úspěšně prošly kompletní kontrolou povrchu a S.M.A.R.T. parametrů.</li>
+  <li><strong>Záruka 12 měsíců</strong> – na každý repasovaný disk poskytujeme plnou roční záruku, abyste nakupovali bez obav.</li>
+  <li><strong>Rychlé odeslání do 24 hodin</strong> – objednávky expedujeme nejpozději následující pracovní den.</li>
+  <li><strong>Bezpečné balení</strong> – disk je zabalený v antistatickém obalu a chráněný proti poškození při přepravě.</li>
+</ul>
+
+<h3>Využití – pro koho je tento 30 GB disk vhodný?</h3>
+
+<ul>
+  <li><strong>Upgrade staršího notebooku nebo PC</strong> – výměna pomalého mechanického disku za SSD je nejúčinnější způsob, jak zrychlit starší hardware. Systém poběží násobně svižněji.</li>
+  <li><strong>Systémový disk pro lehké distribuce Linuxu</strong> – kapacita 30 GB plně postačuje pro instalaci minimalistických operačních systémů jako Lubuntu, Puppy Linux nebo ChromeOS Flex.</li>
+  <li><strong>Tenký klient, pokladní systém nebo průmyslový panel</strong> – kompaktní 2.5" SSD bez pohyblivých částí je ideální volbou pro embedded zařízení a tichý provoz.</li>
+  <li><strong>Bootovací disk pro domácí server nebo NAS</strong> – operační systém na SSD, data na velkých HDD – osvědčená kombinace pro spolehlivý a rychlý chod serveru.</li>
+  <li><strong>Bastlířské a edukační projekty</strong> – dostupný <strong>použitý HDD</strong> formátu SSD se skvěle hodí pro experimenty, testování nebo výuku správy IT.</li>
+</ul>
+
+<h3>Objednejte si Kingston SNV125-S2/30GB ještě dnes</h3>
+
+<p>Nenechte si ujít tento <strong>repasovaný disk Kingston SNV125-S2/30GB</strong> za výhodnou cenu. Přidejte jej do košíku, využijte naši <strong>záruku 12 měsíců</strong> a rychlé doručení. Máte dotaz? Neváhejte nás kontaktovat – rádi vám poradíme s výběrem toho správného disku pro vaše potřeby.</p>]]></DESCRIPTION>
+<MANUFACTURER>Kingston</MANUFACTURER>
 <WARRANTY>12 měsíců</WARRANTY>
-<SUPPLIER>Petr Le Filo</SUPPLIER>
 <ADULT>0</ADULT>
 <ITEM_TYPE>bazaar</ITEM_TYPE>
 <CATEGORIES>
-<CATEGORY id="910">Komponenty pro notebooky a počítače &gt; Pevné disky do PC a notebooku</CATEGORY>
+<CATEGORY id="910">Komponenty pro notebooky a počítače &gt;&gt; Pevné disky do PC a notebooku</CATEGORY>
+<DEFAULT_CATEGORY id="910" google-id="380">Komponenty pro notebooky a počítače &gt; Pevné disky do PC a notebooku</DEFAULT_CATEGORY>
+</CATEGORIES>
+<IMAGES><IMAGE description="Ilustrační fotografie">https://petrfilo-arch.github.io/importpc-feed/images/ssd_25_sata.jpg</IMAGE></IMAGES>
+<IMAGE_REF>https://petrfilo-arch.github.io/importpc-feed/images/ssd_25_sata.jpg</IMAGE_REF>
+<TEXT_PROPERTIES>
+<TEXT_PROPERTY><NAME>Model</NAME><VALUE>SNV125-S2/30GB</VALUE><DESCRIPTION></DESCRIPTION></TEXT_PROPERTY>
+</TEXT_PROPERTIES>
+<INFORMATION_PARAMETERS>
+<INFORMATION_PARAMETER><NAME>HDD - Výrobce</NAME><VALUE>Kingston</VALUE></INFORMATION_PARAMETER>
+<INFORMATION_PARAMETER><NAME>HDD - Formát</NAME><VALUE>2.5&quot;</VALUE></INFORMATION_PARAMETER>
+<INFORMATION_PARAMETER><NAME>HDD - Rozhraní</NAME><VALUE>SATA II</VALUE></INFORMATION_PARAMETER>
+<INFORMATION_PARAMETER><NAME>HDD - Kapacita</NAME><VALUE>30 GB</VALUE></INFORMATION_PARAMETER>
+<INFORMATION_PARAMETER><NAME>HDD - Otáčky</NAME><VALUE>SSD</VALUE></INFORMATION_PARAMETER>
+<INFORMATION_PARAMETER><NAME>HDD - Série</NAME><VALUE>SSDNow V Series</VALUE></INFORMATION_PARAMETER>
+</INFORMATION_PARAMETERS>
+<FLAGS>
+<FLAG><CODE>action</CODE><ACTIVE>0</ACTIVE></FLAG>
+<FLAG><CODE>tip</CODE><ACTIVE>0</ACTIVE></FLAG>
+<FLAG><CODE>new</CODE><ACTIVE>0</ACTIVE></FLAG>
+<FLAG><CODE>custom1</CODE><ACTIVE>0</ACTIVE></FLAG>
+</FLAGS>
+<VISIBILITY>visible</VISIBILITY>
+<SEO_TITLE>Kingston SNV125-S2/30GB 30 GB SSD 2.5"</SEO_TITLE>
+<META_DESCRIPTION>Kingston SNV125-S2/30GB – repasovaný 2.5" SSD 30 GB, otestováno, záruka 12 měsíců.</META_DESCRIPTION>
+<ALLOWS_IPLATBA>1</ALLOWS_IPLATBA>
+<ALLOWS_PAY_ONLINE>1</ALLOWS_PAY_ONLINE>
+<INTERNAL_NOTE></INTERNAL_NOTE>
+<ITEM_CONDITION><GRADE>refurbished</GRADE><DESCRIPTION></DESCRIPTION></ITEM_CONDITION>
+<HEUREKA_CATEGORY_ID>772</HEUREKA_CATEGORY_ID>
+<ZBOZI_CATEGORY_ID>2176</ZBOZI_CATEGORY_ID>
+<GOOGLE_CATEGORY_ID>380</GOOGLE_CATEGORY_ID>
+<GLAMI_CATEGORY_ID></GLAMI_CATEGORY_ID>
+<FREE_SHIPPING>0</FREE_SHIPPING>
+<FREE_BILLING>0</FREE_BILLING>
+<UNIT>ks</UNIT>
+<CODE>SNV125S230GB</CODE>
+<EAN>0740617168983</EAN>
+<LOGISTIC><WEIGHT>0.1</WEIGHT></LOGISTIC>
+<ATYPICAL_PRODUCT><ATYPICAL_SHIPPING>0</ATYPICAL_SHIPPING><ATYPICAL_BILLING>0</ATYPICAL_BILLING></ATYPICAL_PRODUCT>
+<CURRENCY>CZK</CURRENCY>
+<VAT>21</VAT>
+<PRICE_VAT>279</PRICE_VAT>
+<PURCHASE_PRICE></PURCHASE_PRICE>
+<PURCHASE_VAT>21</PURCHASE_VAT>
+<PURCHASE_PRICE_INCL_VAT>1</PURCHASE_PRICE_INCL_VAT>
+<STANDARD_PRICE></STANDARD_PRICE>
+<STOCK><AMOUNT>1</AMOUNT><LOCATION></LOCATION><MINIMAL_AMOUNT></MINIMAL_AMOUNT><MAXIMAL_AMOUNT></MAXIMAL_AMOUNT></STOCK>
+<STOCK_MIN_SUPPLY></STOCK_MIN_SUPPLY>
+<VISIBLE>1</VISIBLE>
+<PART_NUMBER>SNV125-S2/30GB</PART_NUMBER>
+<FIRMY_CZ>1</FIRMY_CZ>
+<HEUREKA_HIDDEN>0</HEUREKA_HIDDEN>
+<HEUREKA_CART_HIDDEN>0</HEUREKA_CART_HIDDEN>
+<HEUREKA_CPC></HEUREKA_CPC>
+<ZBOZI_HIDDEN>0</ZBOZI_HIDDEN>
+<ZBOZI_CPC></ZBOZI_CPC>
+<ZBOZI_SEARCH_CPC></ZBOZI_SEARCH_CPC>
+<ARUKERESO_HIDDEN>0</ARUKERESO_HIDDEN>
+<ARUKERESO_MARKETPLACE_HIDDEN>0</ARUKERESO_MARKETPLACE_HIDDEN>
+<DECIMAL_COUNT>0</DECIMAL_COUNT>
+<NEGATIVE_AMOUNT>0</NEGATIVE_AMOUNT>
+<UNIT_OF_MEASURE><PACKAGE_AMOUNT></PACKAGE_AMOUNT><PACKAGE_AMOUNT_UNIT></PACKAGE_AMOUNT_UNIT><MEASURE_AMOUNT></MEASURE_AMOUNT><MEASURE_AMOUNT_UNIT></MEASURE_AMOUNT_UNIT></UNIT_OF_MEASURE>
+<PRICE_RATIO>1</PRICE_RATIO>
+<MIN_PRICE_RATIO>0</MIN_PRICE_RATIO>
+<ACTION_PRICE></ACTION_PRICE>
+<APPLY_LOYALTY_DISCOUNT>1</APPLY_LOYALTY_DISCOUNT>
+<APPLY_VOLUME_DISCOUNT>1</APPLY_VOLUME_DISCOUNT>
+<APPLY_QUANTITY_DISCOUNT>1</APPLY_QUANTITY_DISCOUNT>
+<APPLY_DISCOUNT_COUPON>1</APPLY_DISCOUNT_COUPON>
+<RECYCLING_FEE_CATEGORY></RECYCLING_FEE_CATEGORY>
+<RECYCLING_FEE_PRICE></RECYCLING_FEE_PRICE>
+<RECYCLING_FEE_CURRENCY></RECYCLING_FEE_CURRENCY>
+<RECYCLING_FEE_TYPE></RECYCLING_FEE_TYPE>
+
+</SHOPITEM>
+
+<SHOPITEM id="MQ01ABD050">
+<NAME>500 GB HDD Toshiba MQ01ABD050 2.5&quot; SATA</NAME>
+<GUID>cebca5aa-cf87-4ccf-94a7-6e87e63a431b</GUID>
+<SHORT_DESCRIPTION><![CDATA[<p>500 GB HDD 2.5" (SATA II, 5.400 ot/min), otestováno, záruka 12 měsíců.</p>]]></SHORT_DESCRIPTION>
+<DESCRIPTION><![CDATA[<h2>Repasovaný disk Toshiba MQ01ABD050 – 500 GB 2.5" HDD za skvělou cenu</h2>
+
+<p>Hledáte spolehlivý <strong>použitý HDD</strong> s dostatečnou kapacitou pro váš notebook nebo externí box? <strong>Toshiba MQ01ABD050</strong> s kapacitou <strong>500 GB</strong> je prověřený <strong>repasovaný disk</strong>, který nabídne tichý chod, nízkou spotřebu a ověřený zdravotní stav. Ideální volba, když potřebujete cenově dostupné úložiště bez kompromisů na kvalitě.</p>
+
+<h3>Technické parametry</h3>
+
+<table>
+  <tr>
+    <th>Parametr</th>
+    <th>Hodnota</th>
+  </tr>
+  <tr>
+    <td>Model</td>
+    <td>Toshiba MQ01ABD050</td>
+  </tr>
+  <tr>
+    <td>Kapacita</td>
+    <td>500 GB</td>
+  </tr>
+  <tr>
+    <td>Formát</td>
+    <td>2.5"</td>
+  </tr>
+  <tr>
+    <td>Rozhraní</td>
+    <td>SATA II (3 Gb/s)</td>
+  </tr>
+  <tr>
+    <td>Otáčky</td>
+    <td>5 400 ot/min</td>
+  </tr>
+  <tr>
+    <td>Vyrovnávací paměť (cache)</td>
+    <td>8 MB</td>
+  </tr>
+  <tr>
+    <td>Série</td>
+    <td>MQ01ABD</td>
+  </tr>
+  <tr>
+    <td>Part Number</td>
+    <td>HDKEB03S5A01 T</td>
+  </tr>
+  <tr>
+    <td>Stav</td>
+    <td>Repasovaný / Refurbished</td>
+  </tr>
+</table>
+
+<h3>Proč koupit repasovaný disk u ImportPC?</h3>
+
+<ul>
+  <li><strong>Důkladně otestováno</strong> – každý kus prochází diagnostikou v HD Sentinel a CrystalDiskInfo, aby byl zaručen bezchybný stav.</li>
+  <li><strong>Bez vadných sektorů</strong> – prodáváme pouze disky s čistým zdravotním stavem, bez realokovaných či vadných sektorů.</li>
+  <li><strong>Záruka 12 měsíců</strong> – na každý <strong>použitý HDD</strong> z naší nabídky poskytujeme plnou roční záruku.</li>
+  <li><strong>Rychlé odeslání do 24 hodin</strong> – objednávky expedujeme nejpozději následující pracovní den.</li>
+  <li><strong>Bezpečné antistatické balení</strong> – disk dorazí v ochranném obalu, který chrání před poškozením při přepravě.</li>
+</ul>
+
+<h3>Využití – pro koho je 500 GB disk Toshiba vhodný?</h3>
+
+<p><strong>Toshiba MQ01ABD050</strong> je kompaktní <strong>500 GB disk</strong> ve formátu 2.5", který najde uplatnění v široké škále zařízení a scénářů:</p>
+
+<ul>
+  <li><strong>Notebooky a laptopy</strong> – náhrada starého nebo poškozeného disku za zlomek ceny nového.</li>
+  <li><strong>Externí USB boxy</strong> – vytvořte si přenosné úložiště na dokumenty, fotky a zálohy.</li>
+  <li><strong>Starší stolní počítače</strong> – sekundární datový disk pro archivaci souborů.</li>
+  <li><strong>Multimediální centra a NAS</strong> – tichý chod při 5 400 ot/min je ideální pro domácí servery.</li>
+  <li><strong>Herní konzole (PS3, PS4, Xbox)</strong> – rozšíření úložného prostoru za rozumnou cenu.</li>
+  <li><strong>Školní a kancelářské použití</strong> – spolehlivé a ekonomické řešení pro běžnou práci.</li>
+</ul>
+
+<h3>Objednejte si repasovaný disk Toshiba MQ01ABD050 ještě dnes</h3>
+
+<p>Nečekejte a pořiďte si ověřený <strong>repasovaný disk Toshiba MQ01ABD050</strong> s kapacitou <strong>500 GB</strong> za výhodnou cenu. S 12měsíční zárukou a důkladným testováním máte jistotu, že dostanete spolehlivý <strong>použitý HDD</strong> v perfektním stavu. <strong>Přidejte do košíku a my vám disk odešleme do 24 hodin!</strong></p>]]></DESCRIPTION>
+<MANUFACTURER>Toshiba</MANUFACTURER>
+<WARRANTY>12 měsíců</WARRANTY>
+<ADULT>0</ADULT>
+<ITEM_TYPE>bazaar</ITEM_TYPE>
+<CATEGORIES>
+<CATEGORY id="910">Komponenty pro notebooky a počítače &gt;&gt; Pevné disky do PC a notebooku</CATEGORY>
 <DEFAULT_CATEGORY id="910" google-id="380">Komponenty pro notebooky a počítače &gt; Pevné disky do PC a notebooku</DEFAULT_CATEGORY>
 </CATEGORIES>
 <IMAGES><IMAGE description="Ilustrační fotografie">https://petrfilo-arch.github.io/importpc-feed/images/hdd_25_sata_big.jpg</IMAGE></IMAGES>
 <IMAGE_REF>https://petrfilo-arch.github.io/importpc-feed/images/hdd_25_sata_big.jpg</IMAGE_REF>
 <TEXT_PROPERTIES>
-<TEXT_PROPERTY><NAME>Značka</NAME><VALUE>Toshiba</VALUE><DESCRIPTION></DESCRIPTION></TEXT_PROPERTY>
 <TEXT_PROPERTY><NAME>Model</NAME><VALUE>MQ01ABD050</VALUE><DESCRIPTION></DESCRIPTION></TEXT_PROPERTY>
-<TEXT_PROPERTY><NAME>Kapacita</NAME><VALUE>500 GB</VALUE><DESCRIPTION></DESCRIPTION></TEXT_PROPERTY>
-<TEXT_PROPERTY><NAME>Formát</NAME><VALUE>2.5&quot;</VALUE><DESCRIPTION></DESCRIPTION></TEXT_PROPERTY>
-<TEXT_PROPERTY><NAME>Rozhraní</NAME><VALUE>SATA</VALUE><DESCRIPTION></DESCRIPTION></TEXT_PROPERTY>
-<TEXT_PROPERTY><NAME>Otáčky</NAME><VALUE>5.400 ot/min</VALUE><DESCRIPTION></DESCRIPTION></TEXT_PROPERTY>
-<TEXT_PROPERTY><NAME>Mezipaměť</NAME><VALUE>8 MB</VALUE><DESCRIPTION></DESCRIPTION></TEXT_PROPERTY>
 </TEXT_PROPERTIES>
 <INFORMATION_PARAMETERS>
+<INFORMATION_PARAMETER><NAME>HDD - Výrobce</NAME><VALUE>Toshiba</VALUE></INFORMATION_PARAMETER>
 <INFORMATION_PARAMETER><NAME>HDD - Formát</NAME><VALUE>2.5&quot;</VALUE></INFORMATION_PARAMETER>
-<INFORMATION_PARAMETER><NAME>HDD - Rozhraní</NAME><VALUE>SATA</VALUE></INFORMATION_PARAMETER>
+<INFORMATION_PARAMETER><NAME>HDD - Rozhraní</NAME><VALUE>SATA II</VALUE></INFORMATION_PARAMETER>
 <INFORMATION_PARAMETER><NAME>HDD - Kapacita</NAME><VALUE>500 GB</VALUE></INFORMATION_PARAMETER>
 <INFORMATION_PARAMETER><NAME>HDD - Otáčky</NAME><VALUE>5.400 ot/min</VALUE></INFORMATION_PARAMETER>
-<INFORMATION_PARAMETER><NAME>HDD - Mezipaměť</NAME><VALUE>8 MB</VALUE></INFORMATION_PARAMETER>
 <INFORMATION_PARAMETER><NAME>HDD - Série</NAME><VALUE>MQ01ABD</VALUE></INFORMATION_PARAMETER>
+<INFORMATION_PARAMETER><NAME>HDD - Mezipaměť</NAME><VALUE>8 MB</VALUE></INFORMATION_PARAMETER>
 </INFORMATION_PARAMETERS>
 <FLAGS>
 <FLAG><CODE>action</CODE><ACTIVE>0</ACTIVE></FLAG>
@@ -136,6 +420,7 @@
 <ALLOWS_IPLATBA>1</ALLOWS_IPLATBA>
 <ALLOWS_PAY_ONLINE>1</ALLOWS_PAY_ONLINE>
 <INTERNAL_NOTE></INTERNAL_NOTE>
+<ITEM_CONDITION><GRADE>refurbished</GRADE><DESCRIPTION></DESCRIPTION></ITEM_CONDITION>
 <HEUREKA_CATEGORY_ID>772</HEUREKA_CATEGORY_ID>
 <ZBOZI_CATEGORY_ID>2176</ZBOZI_CATEGORY_ID>
 <GOOGLE_CATEGORY_ID>380</GOOGLE_CATEGORY_ID>
@@ -144,19 +429,108 @@
 <FREE_BILLING>0</FREE_BILLING>
 <UNIT>ks</UNIT>
 <CODE>MQ01ABD050</CODE>
+<EAN>0191120075433</EAN>
 <LOGISTIC><WEIGHT>0.1</WEIGHT></LOGISTIC>
 <ATYPICAL_PRODUCT><ATYPICAL_SHIPPING>0</ATYPICAL_SHIPPING><ATYPICAL_BILLING>0</ATYPICAL_BILLING></ATYPICAL_PRODUCT>
 <CURRENCY>CZK</CURRENCY>
 <VAT>21</VAT>
-<PRICE_VAT>270</PRICE_VAT>
+<PRICE_VAT>269</PRICE_VAT>
 <PURCHASE_PRICE></PURCHASE_PRICE>
 <PURCHASE_VAT>21</PURCHASE_VAT>
 <PURCHASE_PRICE_INCL_VAT>1</PURCHASE_PRICE_INCL_VAT>
 <STANDARD_PRICE></STANDARD_PRICE>
-<STOCK><AMOUNT>8</AMOUNT><LOCATION></LOCATION><MINIMAL_AMOUNT></MINIMAL_AMOUNT><MAXIMAL_AMOUNT></MAXIMAL_AMOUNT></STOCK>
+<STOCK><AMOUNT>1</AMOUNT><LOCATION></LOCATION><MINIMAL_AMOUNT></MINIMAL_AMOUNT><MAXIMAL_AMOUNT></MAXIMAL_AMOUNT></STOCK>
 <STOCK_MIN_SUPPLY></STOCK_MIN_SUPPLY>
 <VISIBLE>1</VISIBLE>
 <PART_NUMBER>HDKEB03S5A01 T</PART_NUMBER>
+<FIRMY_CZ>1</FIRMY_CZ>
+<HEUREKA_HIDDEN>0</HEUREKA_HIDDEN>
+<HEUREKA_CART_HIDDEN>0</HEUREKA_CART_HIDDEN>
+<HEUREKA_CPC></HEUREKA_CPC>
+<ZBOZI_HIDDEN>0</ZBOZI_HIDDEN>
+<ZBOZI_CPC></ZBOZI_CPC>
+<ZBOZI_SEARCH_CPC></ZBOZI_SEARCH_CPC>
+<ARUKERESO_HIDDEN>0</ARUKERESO_HIDDEN>
+<ARUKERESO_MARKETPLACE_HIDDEN>0</ARUKERESO_MARKETPLACE_HIDDEN>
+<DECIMAL_COUNT>0</DECIMAL_COUNT>
+<NEGATIVE_AMOUNT>0</NEGATIVE_AMOUNT>
+<UNIT_OF_MEASURE><PACKAGE_AMOUNT></PACKAGE_AMOUNT><PACKAGE_AMOUNT_UNIT></PACKAGE_AMOUNT_UNIT><MEASURE_AMOUNT></MEASURE_AMOUNT><MEASURE_AMOUNT_UNIT></MEASURE_AMOUNT_UNIT></UNIT_OF_MEASURE>
+<PRICE_RATIO>1</PRICE_RATIO>
+<MIN_PRICE_RATIO>0</MIN_PRICE_RATIO>
+<ACTION_PRICE></ACTION_PRICE>
+<APPLY_LOYALTY_DISCOUNT>1</APPLY_LOYALTY_DISCOUNT>
+<APPLY_VOLUME_DISCOUNT>1</APPLY_VOLUME_DISCOUNT>
+<APPLY_QUANTITY_DISCOUNT>1</APPLY_QUANTITY_DISCOUNT>
+<APPLY_DISCOUNT_COUPON>1</APPLY_DISCOUNT_COUPON>
+<RECYCLING_FEE_CATEGORY></RECYCLING_FEE_CATEGORY>
+<RECYCLING_FEE_PRICE></RECYCLING_FEE_PRICE>
+<RECYCLING_FEE_CURRENCY></RECYCLING_FEE_CURRENCY>
+<RECYCLING_FEE_TYPE></RECYCLING_FEE_TYPE>
+
+</SHOPITEM>
+
+<SHOPITEM id="ZZ-DEL195462P">
+<NAME>Nabíječka Movano 19.5V 4.62A (4.5x3.0 pin) pro Dell Latitude</NAME>
+<GUID>2ed1c8b3-157c-4aec-b2e4-2c16d17df109</GUID>
+<SHORT_DESCRIPTION><![CDATA[<p>Nabíječky, otestováno, záruka 12 měsíců.</p>]]></SHORT_DESCRIPTION>
+<DESCRIPTION><![CDATA[<p><strong>Nový, náhradní adaptér značky Movano</strong> s certifikátem kvality CE, ROHS určený pro notebooky DELL.</p>
+<ul>
+<li>Výstup (OUTPUT): <strong>19.5V 4.62A (90W)</strong></li>
+<li>Konektor: Vnější průměr 4.5 mm, Vnitřní průměr 3.0 mm, délka 12 mm PIN</li>
+<li>Vhodná alternativa za originální adaptér</li>
+<li>Feritový filtr, ochrana proti přepětí, přehřátí, přetížení</li>
+<li>Napájecí kabel součástí balení</li>
+</ul>
+<p>Vhodná pro: Dell Inspiron, Dell Latitude, Dell Vostro, Dell XPS a další modely s konektorem 4.5x3.0 mm.</p>]]></DESCRIPTION>
+<MANUFACTURER>Movano</MANUFACTURER>
+<WARRANTY>12 měsíců</WARRANTY>
+<ADULT>0</ADULT>
+<ITEM_TYPE>bazaar</ITEM_TYPE>
+<CATEGORIES>
+<CATEGORY id="910">Komponenty pro notebooky a počítače &gt;&gt; Pevné disky do PC a notebooku</CATEGORY>
+<DEFAULT_CATEGORY id="910" google-id="380">Komponenty pro notebooky a počítače &gt; Pevné disky do PC a notebooku</DEFAULT_CATEGORY>
+</CATEGORIES>
+<TEXT_PROPERTIES>
+<TEXT_PROPERTY><NAME>Model</NAME><VALUE>ZZ-DEL195462P</VALUE><DESCRIPTION></DESCRIPTION></TEXT_PROPERTY>
+</TEXT_PROPERTIES>
+<INFORMATION_PARAMETERS>
+<INFORMATION_PARAMETER><NAME>HDD - Výrobce</NAME><VALUE>Movano</VALUE></INFORMATION_PARAMETER>
+</INFORMATION_PARAMETERS>
+<FLAGS>
+<FLAG><CODE>action</CODE><ACTIVE>0</ACTIVE></FLAG>
+<FLAG><CODE>tip</CODE><ACTIVE>0</ACTIVE></FLAG>
+<FLAG><CODE>new</CODE><ACTIVE>0</ACTIVE></FLAG>
+<FLAG><CODE>custom1</CODE><ACTIVE>0</ACTIVE></FLAG>
+</FLAGS>
+<VISIBILITY>visible</VISIBILITY>
+<SEO_TITLE>Movano ZZ-DEL195462P  Nabíječky</SEO_TITLE>
+<META_DESCRIPTION>Movano ZZ-DEL195462P – repasovaný  Nabíječky , otestováno, záruka 12 měsíců.</META_DESCRIPTION>
+<ALLOWS_IPLATBA>1</ALLOWS_IPLATBA>
+<ALLOWS_PAY_ONLINE>1</ALLOWS_PAY_ONLINE>
+<INTERNAL_NOTE></INTERNAL_NOTE>
+<ITEM_CONDITION><GRADE>refurbished</GRADE><DESCRIPTION></DESCRIPTION></ITEM_CONDITION>
+<HEUREKA_CATEGORY_ID>772</HEUREKA_CATEGORY_ID>
+<ZBOZI_CATEGORY_ID>2176</ZBOZI_CATEGORY_ID>
+<GOOGLE_CATEGORY_ID>380</GOOGLE_CATEGORY_ID>
+<GLAMI_CATEGORY_ID></GLAMI_CATEGORY_ID>
+<FREE_SHIPPING>0</FREE_SHIPPING>
+<FREE_BILLING>0</FREE_BILLING>
+<UNIT>ks</UNIT>
+<CODE>ZZ-DEL195462P</CODE>
+<EAN>5902687180165</EAN>
+<LOGISTIC><WEIGHT>0.5</WEIGHT></LOGISTIC>
+<ATYPICAL_PRODUCT><ATYPICAL_SHIPPING>0</ATYPICAL_SHIPPING><ATYPICAL_BILLING>0</ATYPICAL_BILLING></ATYPICAL_PRODUCT>
+<CURRENCY>CZK</CURRENCY>
+<VAT>21</VAT>
+<PRICE_VAT>499</PRICE_VAT>
+<PURCHASE_PRICE></PURCHASE_PRICE>
+<PURCHASE_VAT>21</PURCHASE_VAT>
+<PURCHASE_PRICE_INCL_VAT>1</PURCHASE_PRICE_INCL_VAT>
+<STANDARD_PRICE></STANDARD_PRICE>
+<STOCK><AMOUNT>1</AMOUNT><LOCATION></LOCATION><MINIMAL_AMOUNT></MINIMAL_AMOUNT><MAXIMAL_AMOUNT></MAXIMAL_AMOUNT></STOCK>
+<STOCK_MIN_SUPPLY></STOCK_MIN_SUPPLY>
+<VISIBLE>1</VISIBLE>
+<PART_NUMBER>LA90PM111</PART_NUMBER>
 <FIRMY_CZ>1</FIRMY_CZ>
 <HEUREKA_HIDDEN>0</HEUREKA_HIDDEN>
 <HEUREKA_CART_HIDDEN>0</HEUREKA_CART_HIDDEN>
