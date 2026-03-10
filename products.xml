@@ -7986,12 +7986,7 @@
 <DEFAULT_CATEGORY>Příslušenství pro notebooky a počítače &gt; Nabíječky pro tablety</DEFAULT_CATEGORY>
 </CATEGORIES>
 <IMAGES>
-<IMAGE description="Hlavní fotografie">https://www.energyking.cz/299041-thickbox_default/nabijecka-movano-tablet-asus-15v-12a-tf600.jpg</IMAGE>
-<IMAGE description="Fotografie 2">https://www.energyking.cz/299042-thickbox_default/nabijecka-movano-tablet-asus-15v-12a-tf600.jpg</IMAGE>
-<IMAGE description="Fotografie 3">https://www.energyking.cz/299043-thickbox_default/nabijecka-movano-tablet-asus-15v-12a-tf600.jpg</IMAGE>
-<IMAGE description="Fotografie 4">https://www.energyking.cz/299044-thickbox_default/nabijecka-movano-tablet-asus-15v-12a-tf600.jpg</IMAGE>
-<IMAGE description="Fotografie 5">https://www.energyking.cz/299045-thickbox_default/nabijecka-movano-tablet-asus-15v-12a-tf600.jpg</IMAGE>
-<IMAGE description="Fotografie 6">https://www.energyking.cz/299046-thickbox_default/nabijecka-movano-tablet-asus-15v-12a-tf600.jpg</IMAGE>
+<IMAGE description="Hlavní fotografie">https://petrfilo-arch.github.io/importpc-feed/images/nabijjecka_movano_generic.jpg</IMAGE>
 </IMAGES>
 <TEXT_PROPERTIES>
 <TEXT_PROPERTY><NAME>Rozměr konektoru</NAME><VALUE>30 pin</VALUE></TEXT_PROPERTY>
@@ -8030,7 +8025,7 @@
 <PRICE_VAT>399</PRICE_VAT>
 <PURCHASE_PRICE>189</PURCHASE_PRICE>
 <CURRENCY>CZK</CURRENCY>
-<IMAGE_REF>https://www.energyking.cz/299041-thickbox_default/nabijecka-movano-tablet-asus-15v-12a-tf600.jpg</IMAGE_REF>
+<IMAGE_REF>https://petrfilo-arch.github.io/importpc-feed/images/nabijjecka_movano_generic.jpg</IMAGE_REF>
 <STOCK><AMOUNT>13</AMOUNT></STOCK>
 <VISIBLE>1</VISIBLE>
 <LOGISTIC><WEIGHT>0.3</WEIGHT></LOGISTIC>
